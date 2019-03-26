@@ -1,4 +1,6 @@
 # Site navigation links
 
-- title: Projects
+- title: Projetos
+  url: /projects/
+- title: Item de menu
   url: /projects/
