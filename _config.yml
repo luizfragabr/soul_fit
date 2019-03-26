@@ -10,7 +10,7 @@ tiled_bg:           false   # Set this true if you want to tile your background 
 locale:             pt_BR
 #url:                https://taylantatli.github.io/Moon
 #url:                http://localhost:4000
-url:                 https://luizfragabr.github.io/moon-theme-jekyll/
+url:                 https://luizfragabr.github.io/karynne_bayer/
 
 # Jekyll
 permalink:          /:title/
