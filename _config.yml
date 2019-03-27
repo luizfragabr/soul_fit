@@ -1,18 +1,21 @@
 # Site
-title:              Psícóloga Karynne Bayer
-author:             Luiz Fernando Fraga
-bio:                'Colocar aqui uma breve biografia.'
-description:        "Colocar aqui uma breve descrição."
+title:              Karynne Bayer - Psicologia Clínica 
+author:
+  twitter: luizfragabr
+  
+bio:                'Colocar aqui uma breve biografia.' # Colocar aqui uma breve biografia.
+description:        "Psicóloga pela Universidade Federal Fluminense, 
+                    Mestre em Psicologia Social, do Trabalho e das Organizações pela Universidade de Brasília. " # Colocar aqui uma breve descrição.
 reading_time:       true
-words_per_minute:   200
-logo:               'assets/img/logo-mono.png'
+words_per_minute:   800
+logo:               'assets/img/logo-lilas.jpg'
 #background:         'assets/img/placeholder-big.jpg'
-background:         'assets/img/background_site_karynne_bayer.jpg'
-tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
+background:         'assets/img/background.jpg'
+tiled_bg:           false   # Defina isso como 'true' se você quiser colocar sua imagem de plano de fundo em branco. Caso contrário, ela será coberta.
 locale:             pt_BR
-#url:                https://taylantatli.github.io/Moon
-#url:                http://localhost:4000
-url:                 https://luizfragabr.github.io/karynne_bayer/
+#url:               http://localhost:4000  # URL Local para desenvolvimento.
+url:                https://luizfragabr.github.io/karynne_bayer # URL de produção.
+#url-ref:           https://www.escavador.com/sobre/11297641/karynne-cordeiro-bayer # URL não usada pelo Jekyll
 
 # Jekyll
 permalink:          /:title/
@@ -30,7 +33,7 @@ sass:
   style:            compressed
 
 # Comments
-disqus_shortname:   taylantatli
+disqus_shortname:   luizfragabr
 
 # Social
 # if you don't have any of social below, comment the line.
