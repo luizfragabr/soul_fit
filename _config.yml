@@ -10,14 +10,8 @@ logo:               'assets/img/logo-lilas.jpg'
 background:         'assets/img/background.jpg'
 tiled_bg:           false   # Defina isso como 'true' se você quiser colocar sua imagem de plano de fundo em branco. Caso contrário, ela será coberta.
 locale:             pt_BR
-
-# Desenvolvimento
 #url:               http://localhost:4000  # URL Local para desenvolvimento.
-#projectname:        ''
-
-#Produção
 url:                https://luizfragabr.github.io/karynne_bayer # URL de produção.
-projectname:        'karynne_bayer'
 
 foto_rosto:         '/assets/img/foto_karynne_bayer_fab.jpg'
 

@@ -32,10 +32,10 @@ Psicóloga pela Universidade Federal Fluminense, Mestre em Psicologia Social, do
 {% capture images %}
     ../assets/img/abrapac_2018.jpg
     ../assets/img/abrapac_2018_04.jpg
-    /assets/img/abrapac_2018_02.jpg
-    /assets/img/abrapac_2018_03.jpg
-    /assets/img/abrapac_2018_05.jpg
-    /assets/img/abrapac_2018_06.jpg
+    ../assets/img/abrapac_2018_02.jpg
+    ../assets/img/abrapac_2018_03.jpg
+    ../assets/img/abrapac_2018_05.jpg
+    ../assets/img/abrapac_2018_06.jpg
 {% endcapture %}
 {% include gallery images=images caption="Palestra sobre \"Qualidade de Vida no Trabalho (QVT)\" realizado na ABRAPAC em outubro de 2018." cols=2 %}
 
