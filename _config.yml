@@ -1,13 +1,10 @@
 # Site
 title:              Karynne Bayer - Psicologia Clínica 
-author:
-  twitter: luizfragabr
-  
-bio:                'Psicologia Clínica é a parte da psicologia que se dedica ao estudo dos transtornos mentais e dos aspectos psíquicos de doenças não mentais. Seus temas incluem a etiologia, classificação, diagnóstico, epidemiologia, intervenção.' # Colocar aqui uma breve biografia.
+bio:                'Olá, bem vindo ao Espaço Terapêutico Karynne Bayer. Agende sua consulta através do número (21) 99893-4111 ou por WhatsApp. Siga-me também nas redes sociais. Aguardo seu contato.' # Colocar aqui uma breve biografia.
 description:        "Psicóloga pela Universidade Federal Fluminense, 
                     Mestre em Psicologia Social, do Trabalho e das Organizações pela Universidade de Brasília. " # Colocar aqui uma breve descrição.
 reading_time:       true
-words_per_minute:   800
+words_per_minute:   300
 logo:               'assets/img/logo-lilas.jpg'
 #background:         'assets/img/placeholder-big.jpg'
 background:         'assets/img/background.jpg'
@@ -15,7 +12,8 @@ tiled_bg:           false   # Defina isso como 'true' se você quiser colocar su
 locale:             pt_BR
 #url:               http://localhost:4000  # URL Local para desenvolvimento.
 url:                https://luizfragabr.github.io/karynne_bayer # URL de produção.
-#url-ref:           https://www.escavador.com/sobre/11297641/karynne-cordeiro-bayer # URL não usada pelo Jekyll
+
+foto_rosto:         '/assets/img/foto_karynne_bayer_fab.jpg'
 
 # Jekyll
 permalink:          /:title/
@@ -33,7 +31,7 @@ sass:
   style:            compressed
 
 # Comments
-disqus_shortname:   luizfragabr
+#disqus_shortname:   luizfragabr
 
 # Social
 # if you don't have any of social below, comment the line.
