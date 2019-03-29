@@ -5,7 +5,7 @@ description:        "Psicóloga pela Universidade Federal Fluminense,
                     Mestre em Psicologia Social, do Trabalho e das Organizações pela Universidade de Brasília. " # Colocar aqui uma breve descrição.
 reading_time:       true
 words_per_minute:   300
-logo:               'assets/img/logo-lilas.jpg'
+logo:               'assets/img/logo-verde.jpg'
 #background:         'assets/img/placeholder-big.jpg'
 background:         'assets/img/background.jpg'
 tiled_bg:           false   # Defina isso como 'true' se você quiser colocar sua imagem de plano de fundo em branco. Caso contrário, ela será coberta.
