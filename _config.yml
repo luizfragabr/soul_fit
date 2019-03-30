@@ -42,7 +42,8 @@ sass:
   #ad-client:
   #ad-slot:
 #bing-verify:
-email: luizfragabr@yahoo.com.br
+email_dev:          luizfragabr@yahoo.com.br 
+email:              karynnebayer1984@gmail.com
 instagram:          psicologia_karynnebayer
 linkedin:           karynne-bayer-5202b46a
 facebook:           Karynne-Bayer
