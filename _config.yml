@@ -8,10 +8,10 @@ words_per_minute:   300
 logo:               'assets/img/logo-verde.jpg'
 #background:         'assets/img/placeholder-big.jpg'
 background:         'assets/img/background.jpg'
-tiled_bg:           false   # Defina isso como 'true' se você quiser colocar sua imagem de plano de fundo em branco. Caso contrário, ela será coberta.
+tiled_bg:           true   # Defina isso como 'true' se você quiser colocar sua imagem de plano de fundo em branco. Caso contrário, ela será coberta.
 locale:             pt_BR
-#url:               http://localhost:4000  # URL Local para desenvolvimento.
-url:                https://luizfragabr.github.io/karynne_bayer # URL de produção.
+url:               http://localhost:4000  # URL Local para desenvolvimento.
+#url:                https://luizfragabr.github.io/karynne_bayer # URL de produção.
 
 foto_rosto:         '/assets/img/foto_karynne_bayer_fab.jpg'
 
@@ -68,7 +68,7 @@ facebook:           Karynne-Bayer
 #hackernews:        username
 
 # Gems
-gems:
+plugins:
   - jekyll-mentions
   - jekyll-feed
   - jekyll-sitemap
