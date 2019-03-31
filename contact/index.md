@@ -24,20 +24,22 @@ comments: false
 * TEPT - Transtorno de Estresse Pós-traumático
 * Outros atendimentos
 
-## Galeria de Imagens
-{% capture images %}
-    ../assets/img/content/abrapac_2018.jpg
-    ../assets/img/content/abrapac_2018_04.jpg
-    ../assets/img/content/abrapac_2018_02.jpg
-    ../assets/img/content/abrapac_2018_03.jpg
-    ../assets/img/content/abrapac_2018_05.jpg
-    ../assets/img/content/abrapac_2018_06.jpg
-{% endcapture %}
-{% include gallery images=images caption="Palestra sobre \"Qualidade de Vida no Trabalho (QVT)\" realizado na ABRAPAC em outubro de 2018." cols=2 %}
-
-[//]: To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
+---
       
 [//]: [Exemplo de link formato button]( {{ site.url }} ){: .btn}
 
-## Vídeo da Palestra
-<iframe width="560" height="315" src="//www.youtube.com/embed/4Dp7RJdwk_M" frameborder="0"> </iframe>
+## Informações para contato
+<img style="width: 20px; height: 18px;float: left;" src="{{ site.url }}/favicon-psicologia-50x50.png">&nbsp;Psicóloga - Karynne Bayer
+
+<i class="fas fa-brain fa-lg"></i> CRP: 05/37617
+
+<i class="fab fa-whatsapp fa-lg"></i> Tel/WhatsApp: {{site.mobile}} 
+
+<i class="fas fa-envelope fa-lg"></i> E-mail: {{ site.email }}
+
+<i class="fas fa-map-marker-alt fa-lg"></i> Endereço: **Office Tower** - Av. Evandro Lins e Silva, 840 / 7º Andar, Sala 715 - Barra da Tijuca, Rio de Janeiro
+
+---
+
+## Localização
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d486.36577377518364!2d-43.32650881377901!3d-23.003743731981494!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9bd0a6cce79395%3A0x187f417d257fc2b3!2sOffice+Tower!5e0!3m2!1spt-BR!2sbr!4v1554051902313!5m2!1spt-BR!2sbr" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
