@@ -29,7 +29,7 @@ comments: false
 [//]: [Exemplo de link formato button]( {{ site.url }} ){: .btn}
 
 ## Informações para contato
-<img style="width: 20px; height: 18px;float: left;" src="{{ site.url }}/favicon-psicologia-50x50.png">&nbsp;Psicóloga - Karynne Bayer
+<img style="width: 20px; height: 18px;float: left;" src="{{ site.url }}/favicon-psicologia-50x50.png">&nbsp;Psicóloga: Karynne Bayer
 
 <i class="fas fa-brain fa-lg"></i> CRP: 05/37617
 
