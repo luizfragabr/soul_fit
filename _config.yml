@@ -8,7 +8,7 @@ words_per_minute:   200
 logo:               'assets/img/logo-verde.jpg'
 #background:         'assets/img/placeholder-big.jpg'
 background:         'assets/img/background.jpg'
-tiled_bg:           true   # Defina isso como 'true' se você quiser colocar sua imagem de plano de fundo em branco. Caso contrário, ela será coberta.
+tiled_bg:           false   # true = Usa a imagem de fundo tamanho normal; false = tamanho extendido.
 locale:             pt_BR
 #url:               http://localhost:4000  # URL Local para desenvolvimento.
 url:                https://luizfragabr.github.io/karynne_bayer # URL de produção.
@@ -16,8 +16,8 @@ url:                https://luizfragabr.github.io/karynne_bayer # URL de produç
 foto_rosto:         '/assets/img/foto_karynne_bayer_fab.jpg'
 
 # Jekyll
-permalink:          /:title/
-markdown:           kramdown
+permalink:          /:title/  # URLs amigáveis.
+markdown:           kramdown  # Tipo de parser MD utilizado.
 highlighter:        rouge
 kramdown:
   auto_ids:         true
