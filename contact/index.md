@@ -27,6 +27,10 @@ comments: false
 
 ---
 
+{% comment %}
+[Exemplo de link formato button]( {{ site.url }} ){: .btn}
+{% endcomment %}
+
 [//]: [Exemplo de link formato button]( {{ site.url }} ){: .btn}
 
 ## Informações para contato
@@ -35,7 +39,7 @@ comments: false
 
 <i class="fas fa-brain fa-lg"></i> CRP: 05/37617
 
-<i class="fab fa-whatsapp fa-lg"></i> Tel/WhatsApp: {{site.mobile}} 
+<i class="fab fa-whatsapp fa-lg"></i> Tel/WhatsApp: {{site.mobile}}
 
 <i class="fas fa-envelope fa-lg"></i> E-mail: {{ site.email }}
 
