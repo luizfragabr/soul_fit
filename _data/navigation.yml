@@ -1,6 +1,6 @@
 # Site navigation links
 
-- title: Projetos
-  url: /projects/
 - title: Consultório
   url: /contact/
+- title: Para Empresas
+  url: /projects/

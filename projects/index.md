@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Meus projetos
+title: Projetos para Empresas
 excerpt: "Uma lista de projetos"
 comments: false
 ---
