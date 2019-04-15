@@ -78,9 +78,10 @@ comments: false
     <div class="6u 12u$(mobile)"><input type="text" name="Nome" placeholder="Nome completo: " /></div>
     <div class="6u$ 12u$(mobile)"><input type="text" name="Email" placeholder="Email: " /></div>
     <div class="12u$">
-      <textarea name="Mensagem" placeholder="Mensagem"></textarea>
+      <textarea name="Mensagem" placeholder="Mensagem..."></textarea>
     </div>
     <div class="12u$">
+      <br>  
       <input type="submit" value="Enviar mensagem" />
     </div>
   </div>
