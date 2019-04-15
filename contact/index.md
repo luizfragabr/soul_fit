@@ -6,7 +6,7 @@ date: 2019-03-29
 comments: false
 ---
 
-![Foto](../assets/img/content/consultorio.jpg)  
+![Foto](../assets/img/content/consultorio/consultorio_1.jpg)  
 
 ## Áreas de atendimento
 
@@ -44,6 +44,22 @@ comments: false
 <i class="fas fa-envelope fa-lg"></i> E-mail: {{ site.email }}
 
 <i class="fas fa-map-marker-alt fa-lg"></i> Endereço: **Office Tower** - Av. Evandro Lins e Silva, 840 / 7º Andar, Sala 715 - Barra da Tijuca, Rio de Janeiro
+
+---
+
+## Espaço terapêutico
+
+{% capture images %}
+    ../assets/img/content/consultorio/consultorio_1.jpg
+    {% comment %}../assets/img/content/consultorio/consultorio_2.jpg{% endcomment %}
+    ../assets/img/content/consultorio/consultorio_3.jpg
+    ../assets/img/content/consultorio/consultorio_4.jpg
+    {% comment %}../assets/img/content/consultorio/consultorio_5.jpg{% endcomment %}
+    ../assets/img/content/consultorio/consultorio_6.jpg
+    ../assets/img/content/consultorio/consultorio_7.jpg
+    ../assets/img/content/consultorio/consultorio_8.jpg
+{% endcapture %}
+<div style="text-align: center;">{% include gallery images=images caption="Marque sua consulta!" cols=2 %}</div>
 
 ---
 
