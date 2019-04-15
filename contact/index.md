@@ -82,7 +82,7 @@ comments: false
     </div>
     <div class="12u$">
       <br>  
-      <input type="submit" value="Enviar mensagem" />
+      <input class="btn_contact" type="submit" value="Enviar mensagem" />
     </div>
   </div>
 </form>
