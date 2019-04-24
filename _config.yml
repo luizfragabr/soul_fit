@@ -11,9 +11,7 @@ tiled_bg:           false   # true = Usa a imagem de fundo tamanho normal; false
 locale:             pt_BR
 foto_rosto:         '/assets/img/foto_karynne_bayer_fab.jpg'
 baseurl:            '' # subcaminho para o site, exemplo: /blog
-#url:               http://localhost:4000  # URL Local para desenvolvimento.
-#url:               https://karynnebayer.netlify.com # URL de produção.
-url:                ''
+url:               https://karynnebayer.netlify.com # URL de produção.
 
 
 # Jekyll
