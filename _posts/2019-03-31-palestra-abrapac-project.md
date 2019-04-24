@@ -18,6 +18,7 @@ comments: true
 ---
 
 ## Galeria de Imagens
+
 {% capture images %}
     ../assets/img/content/evento_abrapac_2018/abrapac_2018.jpg
     ../assets/img/content/evento_abrapac_2018/abrapac_2018_04.jpg

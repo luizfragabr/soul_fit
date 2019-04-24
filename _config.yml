@@ -1,4 +1,4 @@
-# Site
+# Site - Variáveis Globais
 title:              Karynne Bayer - Psicologia Clínica 
 bio:                'Olá, bem vindo ao Espaço Terapêutico Karynne Bayer. Agende sua consulta através do número (21) 99893-4111 ou por WhatsApp. Siga-me também nas redes sociais. Aguardo seu contato.' # Colocar aqui uma breve biografia.
 description:        "Psicóloga pela Universidade Federal Fluminense, 
@@ -6,15 +6,14 @@ description:        "Psicóloga pela Universidade Federal Fluminense,
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo-verde.jpg'
-#background:         'assets/img/placeholder-big.jpg'
 background:         'assets/img/background.jpg'
 tiled_bg:           false   # true = Usa a imagem de fundo tamanho normal; false = tamanho extendido.
 locale:             pt_BR
-#url:               http://localhost:4000  # URL Local para desenvolvimento.
-#url:                https://luizfragabr.github.io/karynne_bayer # URL de produção.
-
-# Variáveis Globais
 foto_rosto:         '/assets/img/foto_karynne_bayer_fab.jpg'
+baseurl:            '' # subcaminho para o site, exemplo: /blog
+#url:               http://localhost:4000  # URL Local para desenvolvimento.
+#url:               https://karynnebayer.netlify.com # URL de produção.
+
 
 # Jekyll
 permalink:          /:title/  # URLs amigáveis.
@@ -35,7 +34,6 @@ sass:
 disqus_shortname:   karynne-bayer
 
 # Social
-# if you don't have any of social below, comment the line.
 #google:
   #plus:            #username
   #analytics:
