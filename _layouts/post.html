@@ -20,7 +20,7 @@ layout: compress
                     <h4>{{ page.date | date: "%d/%m/%Y" }}</h4>
                     {% if site.reading_time %}
                     <p class="reading-time">
-                      <i class="fa fa-clock-o"></i>
+                      <em class="fa fa-clock-o"></em>
                       {% include read-time.html %}
                     </p><!-- /.entry-reading-time -->
                     {% endif %}
@@ -29,7 +29,7 @@ layout: compress
                     {% else %}
                     <a class="btn zoombtn" href="{{site.url}}/posts/">
                     {% endif %}
-                        <i class="fa fa-chevron-left"></i>
+                        <em class="fa fa-chevron-left"></em>
                     </a>
                 </div>
                 {{ content }}

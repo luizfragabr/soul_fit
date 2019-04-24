@@ -13,6 +13,7 @@ foto_rosto:         '/assets/img/foto_karynne_bayer_fab.jpg'
 baseurl:            '' # subcaminho para o site, exemplo: /blog
 #url:               http://localhost:4000  # URL Local para desenvolvimento.
 #url:               https://karynnebayer.netlify.com # URL de produção.
+url:                ''
 
 
 # Jekyll
