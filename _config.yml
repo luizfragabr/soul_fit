@@ -1,51 +1,53 @@
 # Site - Variáveis Globais
-title:              Karynne Bayer - Psicologia Clínica 
-bio:                'Olá, bem vindo ao Espaço Terapêutico Karynne Bayer. Agende sua consulta através do número (21) 99893-4111 ou por WhatsApp. Siga-me também nas redes sociais. Aguardo seu contato.' # Colocar aqui uma breve biografia.
-description:        "Psicóloga pela Universidade Federal Fluminense, 
-                    Mestre em Psicologia Social, do Trabalho e das Organizações pela Universidade de Brasília. " # Colocar aqui uma breve descrição.
-reading_time:       true
-words_per_minute:   200
-logo:               'assets/img/logo-verde.jpg'
-background:         'assets/img/background.jpg'
-tiled_bg:           false   # true = Usa a imagem de fundo tamanho normal; false = tamanho extendido.
-locale:             pt_BR
-foto_rosto:         '/assets/img/foto_karynne_bayer_fab.jpg'
-baseurl:            '' # subcaminho para o site, exemplo: /blog
-url:               https://karynnebayer.netlify.com # URL de produção.
-
+title: Soul Fit - Culinária Saudável
+bio:
+  "Olá, bem vindo ao Espaço Culinário Soul Fit. Venha ter uma experiência saudável e saborosa experimentando uma de nossas refeições.
+  Faça seu pedido através do número abaixo ou por WhatsApp. Estamos também nas redes sociais." # Colocar aqui uma breve biografia.
+description: "Como ter uma alimentação saudável com praticidade?
+  Nossas marmitas são congeladas, produzidas sem uso de glutamato monossódico e outros temperos industrializados." # Colocar aqui uma breve descrição.
+reading_time: true
+words_per_minute: 200
+logo: "assets/img/logo-verde.png"
+background: "assets/img/background.jpg"
+tiled_bg: false # true = Usa a imagem de fundo tamanho normal; false = tamanho extendido.
+locale: pt_BR
+foto_rosto: "/assets/img/foto_karynne_bayer_fab.jpg"
+baseurl: "" # subcaminho para o site, exemplo: /blog
+url: https://soulfit.netlify.com # URL de produção.
 
 # Jekyll
-permalink:          /:title/  # URLs amigáveis.
-markdown:           kramdown  # Tipo de parser MD utilizado.
-highlighter:        rouge
+permalink: /:title/ # URLs amigáveis.
+markdown: kramdown # Tipo de parser MD utilizado.
+highlighter: rouge
 kramdown:
-  auto_ids:         true
-  footnote_nr:      1
-  entity_output:    as_char
-  toc_levels:       1..6
-  enable_coderay:   false
-mathjax:            true
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  enable_coderay: false
+mathjax: true
 sass:
-  sass_dir:         _sass
-  style:            compressed
+  sass_dir: _sass
+  style: compressed
 
 # Comments
-disqus_shortname:   karynne-bayer
+#disqus_shortname: karynne-bayer
 
 # Social
 #google:
-  #plus:            #username
-  #analytics:
-  #verify:
-  #ad-client:
-  #ad-slot:
+#plus:            #username
+#analytics:
+#verify:
+#ad-client:
+#ad-slot:
 #bing-verify:
-mobile:             (21) 99893-4111
-email_dev:          luizfragabr@yahoo.com.br 
-email:              kbayer.psicologia@gmail.com
-instagram:          psicologia_karynnebayer
+mobile: (21) 98052-8118
+email_dev: luizfragabr@yahoo.com.br
+#email: kbayer.psicologia@gmail.com
+instagram: "@soul.fit.rj"
+whatsapp: "(21) 98052-8118"
 #linkedin:           karynne-bayer-5202b46a
-facebook:           Karynne-Bayer
+#facebook: Karynne-Bayer
 #twitter:            username
 #medium:            '@username'
 #github-url:         username
@@ -75,7 +77,21 @@ plugins:
   - jekyll-gist
 
 jekyll-mentions:
-    base_url: https://github.com
+  base_url: https://github.com
 
 # Exclude list
-exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile]
+exclude:
+  [
+    README.md,
+    Gemfile,
+    Gemfile.lock,
+    node_modules,
+    gulpfile.js,
+    package.json,
+    _site,
+    src,
+    vendor,
+    CNAME,
+    LICENSE,
+    Rakefile,
+  ]

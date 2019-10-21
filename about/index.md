@@ -1,15 +1,15 @@
 ---
 layout: page
-title: Sobre mim
-tags: [sobre mim, psicologia, psicóloga, formação]
+title: Sobre a empresa
+tags: [sobre a empresa, culinaria, psicóloga, formação]
 date: 2019-03-28
 comments: false
 ---
 
-## Karynne Cordeiro Bayer
+## A Soul Fit
 
-[//]: ![Foto](../assets/img/content/karynne.jpg)
-<img style="width: 150px;padding: 10px; float: left;" src="{{ site.url }}/assets/img/content/karynne.jpg">
+[//]: ![Foto](../assets/img/logo-verde.png)
+<img style="width: 150px;padding: 10px; float: left;" src="{{ site.url }}/assets/img/logo-verde.png">
 
 <i class="fas fa-graduation-cap fa-lg"></i> Psicóloga pela Universidade Federal Fluminense, Mestre em Psicologia Social, do Trabalho e das Organizações pela Universidade de Brasília, com pesquisa em qualidade de vida no trabalho dos pilotos do transporte aéreo público regular de passageiros no Brasil.
 
